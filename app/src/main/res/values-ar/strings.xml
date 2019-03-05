@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bull Movies</string>
+    <string name="home_name">الرئيسية</string>
+    <string name="latestActivity">أحدث الأفلام</string>
+
+    <string name="Docs">شرح</string>
+    <string name="desc">الوصف</string>
+    <string name="ScreenShots">لقطات</string>
+    <string name="Trailer">الاعلان</string>
+    <string name="Torrents">ملفات التحميل </string>
+    <string name="recommended">اختارنا لك </string>
+    <string name="favorites">المفضلة</string>
+    <string name="watch_menu">اعدادت سيدر</string>
+    <string name="watch_Activity">مشاهدة اونلاين</string>
+    <string name="next">التالى</string>
+    <string name="prev">السابق</string>
+    <string name="Favorites">المفضلة</string>
+    <string name="thisyear">الأحدث</string>
+    <string name="search">بحث</string>
+    <string name="Action">أكشن</string>
+    <string name="Animation">كرتون</string>
+    <string name="Adventure">مغامرات</string>
+    <string name="Comedy">كوميدى</string>
+    <string name="Crime">جريمة</string>
+    <string name="Drama">دراما</string>
+    <string name="Fantasy">خيال</string>
+    <string name="Horror">رعب</string>
+    <string name="Romance">رمانسى</string>
+    <string name="Sciencefiction">خيال علمى</string>
+    <string name="Thriller">قصص مثيرة</string>
+    <string name="Western">الغربى</string>
+    <string name="Mystery">غموض</string>
+    <string name="Search_button">أبحث</string>
+    <string name="Quality_button">الجودة</string>
+    <string name="Cat_button">الفئات</string>
+    <string name="Ratings_button">التقيم</string>
+    <string name="edt_Search">اكتب هنا....</string>
+    <string name="Home_error">عفوا, لايوجد افلام فى الوقت الحالى, من فضلك اعد المحاولة فى وقت اخر </string>
+    <string name="Favo_error">عفوا, لايوجد افلام مفضلة, من فضلك أضف البعض </string>
+
+    <string name="cpy_torrents">نسخ الرابط</string>
+    <string name="downlod_torrents">تحميل بواسطة </string>
+    <string name="download_torrent_url">تحميل ملف التورنت </string>
+
+    <string name="Watch_torrents">مشاهده الان </string>
+    <string name="Quality_Header">من فضلك اختار الجودة</string>
+    <string name="Cat_Header">من فضلك اختار منطقة البحث</string>
+    <string name="Ratings_Header">من فضلك اختار التقيم </string>
+    <string name="dialog_message">حدد نطاق البحث</string>
+    <string name="watch_message_ways">إختر طريقة مشاهدتك </string>
+
+    <string name="chromebrowser">المتصفح</string>
+
+    <string name="Hints">اذا كانت اول مرة تقوم فيها باستخدام الابلكيشن فى المشاهدة اونلاين ومن فضلك اقرأ التعليمات اولا, ثم يمكنك المشاهدة من قطاع ملفات التحميل </string>
+    <string name="click_here">هنا</string>
+    <string name="Title_Docs">شرح كيفية المشاهدة اونلاين</string>
+    <string name="Intro_Docs"> اولا نحن نستخدم موقع سيدر لكى نستضيف افلامنا مجانا من اجلك ,لكن سيدر يعطيك مساحة 2 جيجا بايت فقط مجانا لكى تشاهد فلمك,لذلك بعد ان تشاهد فيلمك يجب مسحه حتى توفر مساحه للفيلم القادم ,والا عليم ان تقوم بشراء مساحه اكبر من سيدر  </string>
+    <string name="Title_Docs1">فى مقطع تحميل الملفات اضغظ مشاهدى الان </string>
+    <string name="intro_disc7">اضغط على كلمه cc الموجوده فى الجانب الايمن العلوى من الفيديو لكى تحمل ملف الترجمه ,اختر اللغة التى تعجبك وقم باضافتها واستمتع بالفيلم  </string>
+    <string name="intro_disc6">  سوف ترى convert and play انتظر لحظات وقم بتشغيل الفيلم  </string>
+    <string name="intro_disc5">   بمجرد ما يتم الانتهاء من  Copying to folder ,اضغط ع الفولدر   </string>
+    <string name="intro_disc4"> بمجرد ضغطك على مشاهدة الان تم اخد نسخه من رابط الفيلم , ليس عليك انا تضعها فى المربع المكتوب بداخلة past torrent url ثم اضغط على زرار + , سوف ترى ملف الفيلم وزرار ازرق ما عليك الا الضغط عليه وسوف ترى رساله خضراء لتأكيد انك قمت باضافه الفيلم </string>
+    <string name="intro_disc3">اضغظ على زرار علامه + </string>
+    <string name="intro_disc2">مباشرة يتم فتح موقع سيدر فيجب عليك تسجيل الدخول او انشاء حساب جديد </string>
+    <string name="navigation_drawer_open">فتح المسار</string>
+    <string name="navigation_drawer_close">غلق المسار</string>
+    <string name="install">تنزيل</string>
+
+</resources>

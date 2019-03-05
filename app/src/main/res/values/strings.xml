@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Bull Movies</string>
+    <string name="home_name">Home</string>
+    <string name="latestActivity">Latest Movies</string>
+    <string name="Docs">tutorial</string>
+    <string name="desc">Description</string>
+    <string name="ScreenShots">ScreenShots</string>
+    <string name="Trailer">Trailer</string>
+    <string name="Torrents">Torrents</string>
+    <string name="recommended">recommended</string>
+    <string name="favorites">WishList</string>
+    <string name="search">Search</string>
+    <string name="watch_menu">manage Seedr</string>
+    <string name="watch_Activity">watch Online</string>
+    <string name="next">Next</string>
+    <string name="prev">Prev</string>
+    <string name="Favorites">Favorites</string>
+    <string name="thisyear">Latest</string>
+    <string name="Action">Action</string>
+    <string name="Animation">Animation</string>
+    <string name="Adventure">Adventure</string>
+    <string name="Comedy">Comedy</string>
+    <string name="Crime">Crime</string>
+    <string name="Drama">Drama</string>
+    <string name="Fantasy">Fantasy</string>
+    <string name="Horror">Horror</string>
+    <string name="Romance">Romance</string>
+    <string name="Sciencefiction">Science fiction</string>
+    <string name="Thriller">Thriller</string>
+    <string name="Western">Western</string>
+    <string name="Mystery">Mystery</string>
+    <string name="Search_button">Search</string>
+    <string name="Quality_button">Qualities</string>
+    <string name="Cat_button">Genre</string>
+    <string name="Ratings_button">Ratings</string>
+    <string name="Home_error">Sorry there is no movies right now , please try again later</string>
+    <string name="Favo_error">Sorry there is no favorites  movies , please add some </string>
+    <string name="edt_Search">Write here....</string>
+    <string name="chromebrowser">Browser</string>
+
+    <string name="Quality_Header">Please Choose your quality</string>
+    <string name="Cat_Header">Please Choose your search area</string>
+    <string name="Ratings_Header">Please Choose your ratings area</string>
+    <string name="dialog_message">you can filter your search area </string>
+    <string name="watch_message_ways">Choose your path to watch </string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="cpy_torrents">Copy Url</string>
+    <string name="downlod_torrents">Download Movie With uTorrent</string>
+    <string name="Watch_torrents">Watch Now</string>
+    <string name="download_torrent_url">Download Torrent File</string>
+
+
+    <string name="click_here">Here</string>
+    <string name="Title_Docs">Tutorial for watching online </string>
+    <string name="Intro_Docs">first of all we use seedr site for hosting our movies for free just for you and this seedr will give you just 2 gigaBytes for free to watch your movie ,so after watching your movie just delete it to make space for the next movie ,else you have to upgrade your account for more space  </string>
+    <string name="Hints">if that your first time to use this app for watching online ,please read tutorial first and watch from torrents section</string>
+    <string name="Title_Docs1">Go to torrents section and click watch now</string>
+
+    <string name="intro_disc7">click the CC word in the above right corner in video to get subtitles just choose your desire language and double click on it and enjoy watching  </string>
+    <string name="intro_disc6">you will see convert and play just moment and play the movie </string>
+    <string name="intro_disc5"> after finshing Copying to folder just click it   </string>
+    <string name="intro_disc4"> once you click watch now you copied the movie url just past it and click plus button then will show the movie name and add button,just click add button then you see the confirm message </string>
+    <string name="intro_disc3">click on the plus button </string>
+    <string name="intro_disc2">directly you will go to the seedr site and you have to register or login </string>
+    <string name="install">Install</string>
+
+
+</resources>

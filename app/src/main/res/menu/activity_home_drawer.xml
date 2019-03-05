@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/action"
+            android:icon="@drawable/action"
+            android:title="@string/Action" />
+        <item
+            android:id="@+id/Animation"
+            android:icon="@drawable/animation"
+            android:title="@string/Animation" />
+        <item
+            android:id="@+id/Adventure"
+            android:icon="@drawable/adventure"
+            android:title="@string/Adventure" />
+        <item
+            android:id="@+id/Comedy"
+            android:icon="@drawable/comdy"
+            android:title="@string/Comedy" />
+        <item
+            android:id="@+id/Crime"
+            android:icon="@drawable/crime"
+            android:title="@string/Crime" />
+        <item
+            android:id="@+id/Drama"
+            android:icon="@drawable/drama"
+            android:title="@string/Drama" />
+        <item
+            android:id="@+id/Fantasy"
+            android:icon="@drawable/fantasy"
+            android:title="@string/Fantasy" />
+        <item
+            android:id="@+id/Horror"
+            android:icon="@drawable/horror"
+            android:title="@string/Horror" />
+        <item
+            android:id="@+id/Mystery"
+            android:icon="@drawable/mystery"
+            android:title="@string/Mystery" />
+        <item
+            android:id="@+id/Romance"
+            android:icon="@drawable/romance"
+            android:title="@string/Romance" />
+        <item
+            android:id="@+id/Sci_Fi"
+            android:icon="@drawable/scefic"
+            android:title="@string/Sciencefiction" />
+        <item
+
+            android:id="@+id/Thriller"
+            android:icon="@drawable/thriller"
+            android:title="@string/Thriller" />
+        <item
+            android:id="@+id/Western"
+            android:icon="@drawable/western"
+            android:title="@string/Western" />
+
+    </group>
+
+
+
+</menu>
